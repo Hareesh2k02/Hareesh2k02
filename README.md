@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hareesh2k02
+- 👋 Hi, I’m Hareesh S
 - 👀 I’m interested in Front-end development 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on (wait for see...
